@@ -7,7 +7,7 @@ authors:
     given-names: Younes
 repository-code: "https://github.com/ysmouhib/hj-vdw-reproducibility"
 license: MIT
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-11-17
 keywords:
   - Hales-Jewett numbers
