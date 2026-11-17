@@ -1,3 +1,9 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24297574.svg)](https://doi.org/10.5281/zenodo.24297574)
+[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+
+
+
 # Hales–Jewett and van der Waerden certificates
 
 Reproducible certificates and search code for **More lower bounds for Hales–Jewett and van der Waerden numbers** (Younes Mouhib, 2026).
