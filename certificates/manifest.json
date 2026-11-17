@@ -1,0 +1,50 @@
+{
+  "schema": "certificate-manifest-v1",
+  "files": [
+    {
+      "path": "algebraic.json",
+      "sha256": "e4bb6d425c25ed4e9b8fc1345d53501c6dd1d51b723ffc41813d1ef35379883a"
+    },
+    {
+      "path": "simplex/HJ33_T21_calibration.json",
+      "sha256": "70795769a2bc8120f0ba71863e58694b4cb7c40ec04dcb51c8f4c32572c7bbb4"
+    },
+    {
+      "path": "simplex/HJ34_T49_warm_start.json",
+      "sha256": "ec79477a91e9c29662d8593e2f43bc5cf5d5cd45a19320b2f10c3045d3e266b7"
+    },
+    {
+      "path": "simplex/HJ34_T50.json",
+      "sha256": "a4e24bcc8c9858726ea9355176874c4e7a22f713b2fae780f32c029ae10e27f4"
+    },
+    {
+      "path": "vdw/W_10_3_N893_superseded.json",
+      "sha256": "7de7ee469c50647f1b80a43485968980611d9dcd4de6e3fc2937771452d018cf"
+    },
+    {
+      "path": "vdw/W_11_3_N1193.json",
+      "sha256": "937460fe9bff15e8397ac88074aedf90a06b8e7dbba2b6b998be9b164409ed30"
+    },
+    {
+      "path": "vdw/W_17_3_N3620.json",
+      "sha256": "c5b1cca9a8225957ea25fccd589c66e4dfbf83586159ff3c896940927b908733"
+    },
+    {
+      "path": "vdw/W_8_3_N517_superseded.json",
+      "sha256": "ec7cdfc2386a189b522a4fe50962e200fe56e91e41043ecde012b656064583c1"
+    },
+    {
+      "path": "vdw/W_8_3_N522.json",
+      "sha256": "50783db8a0e443770b6342214221c53b0ae91f7b8ab5f443f68d086c554d7e15"
+    }
+  ],
+  "expected": {
+    "algebraic_records": 22,
+    "article_table_records": 19,
+    "algebraic_translates": 1047828,
+    "simplex_files": 3,
+    "simplex_corners": 44696,
+    "vdw_certificates": 5,
+    "vdw_progressions": 3962846
+  }
+}

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Hales–Jewett and van der Waerden certificates and search code"
+message: "If you use these certificates or programs, please cite the associated article and this repository."
+type: software
+authors:
+  - family-names: Mouhib
+    given-names: Younes
+repository-code: "https://github.com/ysmouhib/hj-vdw-reproducibility"
+license: MIT
+version: 1.0.0
+date-released: 2026-11-17
+keywords:
+  - Hales-Jewett numbers
+  - van der Waerden numbers
+  - combinatorial colourings
+  - CryptoMiniSat
+  - certificates

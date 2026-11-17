@@ -1,0 +1,3 @@
+# Exact-search dependencies only. Certificate verification uses the standard library.
+pycryptosat==5.18.0
+python-sat

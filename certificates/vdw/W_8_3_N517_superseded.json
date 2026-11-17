@@ -1,0 +1,12 @@
+{
+  "kind": "van-der-Waerden-coloring",
+  "r": 8,
+  "k": 3,
+  "N": 517,
+  "positions": "1,...,N",
+  "alphabet": "a=0, b=1, ...",
+  "coloring": "bfcggbcfbeahahdehfcfeahfchfdcebaeafhbgfafhafbggedgecchbfeccechdegbeghgcfcghgghaafehfecdafhecdecedffaffgadccfgafggbbfecfddahgfddfdehhcghcabdcdcabcafachechdhbgahdhhdfebcfgcbahddcbbcbbgdgfdgheaabgheghheadbadagedhdbgdbcfdahdaeegbaaeeaegfbdcbdgfehedgfdgdchbghbeffagbefbeahahdahfcfeehfchfdceaaeafhcgfafhbfbggedgecchefeccechdegbeghgcfcghgghaafehfecdgfhecdecedffaffgadccfbafggbcfecfddahgfddfdehhcghcbbdcdcabcbfachechdhbgahdhhdfegcfgcbahddcbacbcgdgfdghecbbgheghheadcadagedhdagdacfdahdaeegbaaeeaegfbdcbdgfghedgfdgdchbghbebfgbae",
+  "status": "valid_superseded",
+  "proves": "W(8,3) > 517",
+  "sha256_coloring": "b8f970c71e3baae2b91d11362c6bca939b6ba9cbc858c2a37e324a09137984b5"
+}

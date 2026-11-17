@@ -1,0 +1,12 @@
+{
+  "kind": "van-der-Waerden-coloring",
+  "r": 10,
+  "k": 3,
+  "N": 893,
+  "positions": "1,...,N",
+  "alphabet": "a=0, b=1, ...",
+  "coloring": "bedbfegdfbfjbhedhjecidffgffccjcbjacicbbchebcjehebbfbbhjiiaaecceecijdfbbifddhchbbijchabdeageaeabfadijdidajehgfajcjiebfahigidcdfcfddbgcijdajdhhbcheagaccdffebhfcfccjgdejagedfabfjhgjhigfgghihheecggaiecijcjdffefjehggaggfhfcegihdggdciecgddidaibaecfeadhccdgdegaibieehhgaiffigbjdhhahfadejhjedijijdcgdaeafgiifaaedigjhgjbhchjbahjfjafjbhigbfbbeggjcagbbecaggfggdfaafeaebbebbfdiggbfdiabdggagaddgieecjehfgfddhgabhebeccfeajibjgifcbjjijdfiadhgcejahehdcdgadiecfbihaiegdfbfjbhedhjecidffgffccjcbjacicbbcheacjehebbfjbhjfiaaecceecijdfbbifdhhchbbibchabheageaeabfadibdidajehgfajcjiebfahighhcdfcfhdbgchjdajdhhbcheagaccdffebhfcfccjgdejagedfabfjhgjhigfgghihheecggaiecijcjdffefjehggaggfhfcegihdggdciecgddidaibaecfeadhccdgiegaibieehdgaiffigbjdhhahfadebhjedijijacgdaeafhiiffaedigjhgbbhchjbahjfjafjbhigbfbbeggjcagjbecaggfggdfaafeaebbebbfdiggbfdiabdggagbihgieecjehfgfddhgabhebeccfeajfbjgifcbjjijaiiadhgcejahjhhcdgbdiecfjfdai",
+  "status": "valid_superseded",
+  "proves": "W(10,3) > 893",
+  "sha256_coloring": "30d8ec751139220f63bb5aec98d160eca765ac82c972df3baceda5622530c2b0"
+}
